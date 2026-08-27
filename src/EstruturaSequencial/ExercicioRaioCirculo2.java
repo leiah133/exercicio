@@ -18,7 +18,7 @@ Entrada: 150.00
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ExercicioFormula {
+public class ExercicioRaioCirculo2 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
        Scanner sc = new Scanner(System.in);

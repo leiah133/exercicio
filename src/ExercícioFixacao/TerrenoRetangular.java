@@ -2,7 +2,7 @@
 // entrada: 10.0 | 30.0 | 200.0 -> saida: AREA = 300.0 | PRECO = 600000.00
 
 
-package ExercícioInicial;
+package ExercícioFixacao;
 
 
 import java.util.Locale;

@@ -27,7 +27,7 @@ RETANGULO: 132.080
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ExercicioArea {
+public class ExercicioArea6 {
     public static void main(String[] args) {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
