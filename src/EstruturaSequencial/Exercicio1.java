@@ -1,6 +1,4 @@
-package Nivel1;
-
-import org.w3c.dom.ls.LSOutput;
+package EstruturaSequencial;
 
 import java.util.Locale;
 

@@ -1,4 +1,4 @@
-package Nivel1;
+package EstruturaSequencial;
 
 import java.util.Locale;
 import java.util.Scanner;
